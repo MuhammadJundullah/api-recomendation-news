@@ -1,3 +1,2 @@
 [start]
-
-cmd = "gunicord app:app
+cmd = "gunicorn app:app"
